@@ -1,6 +1,6 @@
 module.exports = {
   // Bot Settings
-  SESSION_ID: "my-bot-session", // ඔබට අවශ්‍ය නම් වෙනස් කරන්න
+  SESSION_ID: "yVEhXQbQ#CyQD4snQsZg8oMt0u_lnphcPCkdIYj8ux7aPInrsErM", // ඔබට අවශ්‍ය නම් වෙනස් කරන්න
   BOT_NAME: "RDB_BOT",
   
   // Connection Options
