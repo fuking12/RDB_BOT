@@ -20,7 +20,7 @@ const { File } = require('megajs')
 const prefix = '.'
 const { mongodb_connection_start, start_numrep_process, upload_to_mongodb, get_data_from_mongodb, storenumrepdata, getstorednumrep } = require('./lib/nonbutton')
 
-const ownerNumber = ['94711451319']
+const ownerNumber = ['94781209709']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
