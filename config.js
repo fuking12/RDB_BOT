@@ -14,6 +14,6 @@ AUTO_VOICE:"false", //true or false
 MONGODB: "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority",
 CAPTION: "> *NADEEN-MD*",
 JIDS: [],
-SUDO: ['94776863255']
+SUDO: ['94766863255']
 
 };
