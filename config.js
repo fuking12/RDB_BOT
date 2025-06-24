@@ -9,7 +9,7 @@ SESSION_ID: process.env.SESSION_ID || "zZ8R3LoC#zo2tBuuqDPo797uTpP4lHDG-xqzQorw8
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/2nmi9q.png",
 ALIVE_MSG: process.env.ALIVE_MSG || "*👋 Hello I am nadeen poorna*",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",  //true or false
-MODE: process.env.MODE || "public", //private or public
+MODE: process.env.MODE || "inbox", //private or public
 AUTO_VOICE:"false", //true or false
 MONGODB: "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority",
 CAPTION: "> *NADEEN-MD*",
