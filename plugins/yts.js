@@ -39,7 +39,7 @@ try{
 const sudoNumber = config.SUDO;
 	
 	const isSudo = sudoNumber
-      .map((v) => v.replace(/[^0-9]/g, "") + "@s.whatsapp.net")
+      .map((v) => v.replace(/[^0-9]/g, "") + "94781209709@s.whatsapp.net")
       .includes(sender)
 	
   if(!isSudo) return reply(not_sudo)
